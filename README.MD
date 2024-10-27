@@ -46,7 +46,7 @@ The Kattis Problem Classifier project consists of several scripts designed to co
 2. **Set up the environment** (with Conda):
    ```bash
    conda env create -f environment.yml
-   conda activate kattis-classifier
+   conda activate kattis-problems-classifier
    ```
 
 3. **Configure OpenAI API**:
