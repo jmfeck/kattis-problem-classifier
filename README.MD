@@ -1,5 +1,7 @@
 # Kattis Problem Classifier
 
+Project presentation video: [YouTube Video Link](https://youtu.be/D6WK1fjt-XE)
+
 This project aims to make competitive programming studies on Kattis more focused and efficient by categorizing problems based on solution types. Using web scraping and OpenAI’s API, this tool collects problem data, sends descriptions to ChatGPT for classification, and provides a consolidated Excel file that suggests a suitable algorithm type for each problem. This approach benefits anyone looking to streamline their practice in specific problem categories.
 
 ## Quick Access to Classified Problems
@@ -46,7 +48,7 @@ The Kattis Problem Classifier project consists of several scripts designed to co
 2. **Set up the environment** (with Conda):
    ```bash
    conda env create -f environment.yml
-   conda activate kattis-classifier
+   conda activate kattis-problems-classifier
    ```
 
 3. **Configure OpenAI API**:
