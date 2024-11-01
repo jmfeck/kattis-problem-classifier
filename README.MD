@@ -4,12 +4,12 @@ Project presentation video: [YouTube Video Link](https://youtu.be/D6WK1fjt-XE)
 
 This project aims to make competitive programming studies on Kattis more focused and efficient by categorizing problems based on solution types. Using web scraping and OpenAI’s API, this tool collects problem data, sends descriptions to ChatGPT for classification, and provides a consolidated Excel file that suggests a suitable algorithm type for each problem. This approach benefits anyone looking to streamline their practice in specific problem categories.
 
-## Quick Access to Classified Problems
+## Download to Classified Problems
 
 For those interested in the classified problem set without diving into the code, the final Excel file with categorized Kattis problems is available here:  
-**[`data_outgoing/kattis_problems_combined.xlsx`](data_outgoing/kattis_problems_combined.xlsx)**
+**[here](https://github.com/jmfeck/kattis-problem-classifier/blob/main/data_outgoing/kattis_problems_combined.xlsx).**
 
-This file includes an `algorithm_type` column that reflects the classification provided by ChatGPT, indicating the type of solution approach recommended for each problem.
+This file includes an `Algorithm Type` column that reflects the classification provided by ChatGPT, indicating the type of solution approach recommended for each problem.
 
 ---
 
