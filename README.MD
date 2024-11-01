@@ -6,9 +6,7 @@ This project aims to make competitive programming studies on Kattis more focused
 
 ## Download to Classified Problems
 
-For those interested in the classified problem set without diving into the code, the final Excel file with categorized Kattis problems is available here:  
-**[here](https://github.com/jmfeck/kattis-problem-classifier/blob/main/data_outgoing/kattis_problems_combined.xlsx).**
-
+For those interested in the classified problem set without diving into the code, the final Excel file with categorized Kattis problems is available **[here](https://github.com/jmfeck/kattis-problem-classifier/blob/main/data_outgoing/kattis_problems_combined.xlsx).**
 This file includes an `Algorithm Type` column that reflects the classification provided by ChatGPT, indicating the type of solution approach recommended for each problem.
 
 ---
